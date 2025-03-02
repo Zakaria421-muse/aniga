@@ -28,4 +28,3 @@ let students=[
 students.forEach((wow)=>{
     console.log(wow.name)
 });
-wxan ahay saki
